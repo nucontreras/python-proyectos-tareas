@@ -1,5 +1,18 @@
 .idea
 
-3D Model Visualizer/*
+3D Model Visualizer/.idea
+3D Model Visualizer/backend/__pycache__/*
+3D Model Visualizer/backend/
+3D Model Visualizer/frontend/__pycache__
+3D Model Visualizer/frontend/icons/*
+3D Model Visualizer/frontend/about_window.py
+3D Model Visualizer/frontend/help_documentation_window.py
+3D Model Visualizer/frontend/help-documentation-window.ui
+3D Model Visualizer/frontend/information-about-window.ui
+3D Model Visualizer/frontend/main_window.py
+3D Model Visualizer/frontend/main-window-amlaps.ui
+3D Model Visualizer/pieces/*
+3D Model Visualizer/main.py
+3D Model Visualizer/main_interface.py
 mas_tareas/*
 python_game/*
